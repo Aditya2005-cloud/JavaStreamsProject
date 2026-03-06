@@ -2,9 +2,9 @@ Install Required Tools
 
 You need these three things:
 
-Python (for Jupyter)
-Jupyter Notebook
-OpenJDK
+Python (for Jupyter),
+Jupyter Notebook,
+OpenJDK.
 
 Check installation in terminal:
 
