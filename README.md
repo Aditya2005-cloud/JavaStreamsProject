@@ -1,24 +1,32 @@
 Install Required Tools
 
 You need these three things:
+
 Python (for Jupyter)
 Jupyter Notebook
 OpenJDK
 
 Check installation in terminal:
+
 python --version
 java -version
 javac -version
 
-Install Jupyter Notebook
+Install Jupyter Notebook:
+
 pip install notebook
 jupyter notebook
 
 Install Java Kernel:
+
 curl -L https://github.com/SpencerPark/IJava/releases/download/v1.3.0/ijava-1.3.0.zip -o ijava.zip
+
 Extract it:
+
 unzip ijava.zip
+
 Install kernel:
+
 python install.py
 
 Now restart Jupyter.
